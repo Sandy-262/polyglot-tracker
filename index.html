@@ -4,39 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Polyglot Tracker</title>
+<link rel="stylesheet" href="assets/theme.css">
 <style>
-  :root {
-    --bg: #0f1115;
-    --panel: #171a21;
-    --panel-2: #1f232c;
-    --border: #2a2f3a;
-    --text: #e8eaed;
-    --text-dim: #9aa0ab;
-    --accent: #7c9eff;
-    --good: #3ddc97;
-    --track: #2a2f3a;
-  }
-  @media (prefers-color-scheme: light) {
-    :root {
-      --bg: #f5f6f8;
-      --panel: #ffffff;
-      --panel-2: #f0f1f4;
-      --border: #e1e3e8;
-      --text: #1b1d22;
-      --text-dim: #666d7a;
-      --accent: #3a5fd9;
-      --good: #1aa876;
-      --track: #e6e8ed;
-    }
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    padding: 24px 16px 60px;
-  }
+  body { padding: 24px 16px 60px; }
   .wrap { max-width: 1040px; margin: 0 auto; }
   header { margin-bottom: 28px; }
   h1 { font-size: 1.8rem; margin: 0 0 4px; }
@@ -76,14 +46,6 @@
   .lang-flag { font-size: 1.3rem; }
   .lang-pct { font-size: 0.85rem; color: var(--text-dim); }
 
-  .bar {
-    height: 8px;
-    border-radius: 999px;
-    background: var(--track);
-    overflow: hidden;
-  }
-  .bar-fill { height: 100%; border-radius: 999px; transition: width .3s ease; }
-
   .lessons { display: flex; flex-direction: column; gap: 6px; margin-top: 4px; }
   .lesson-row {
     display: flex;
@@ -107,18 +69,7 @@
   .lesson-num { color: var(--text-dim); font-size: 0.8rem; width: 18px; text-align: right; flex-shrink: 0; }
 
   .toolbar { display: flex; gap: 10px; margin-top: 10px; flex-wrap: wrap; }
-  button {
-    background: var(--panel-2);
-    border: 1px solid var(--border);
-    color: var(--text);
-    padding: 8px 14px;
-    border-radius: 10px;
-    font-size: 0.85rem;
-    cursor: pointer;
-  }
-  button:hover { border-color: var(--accent); color: var(--accent); }
   footer { margin-top: 36px; color: var(--text-dim); font-size: 0.8rem; text-align: center; }
-  footer a { color: var(--accent); }
 </style>
 </head>
 <body>
@@ -133,10 +84,10 @@
   <div class="lang-grid" id="langGrid"></div>
 
   <div class="toolbar">
-    <button onclick="exportProgress()">⬇ Export progress</button>
+    <button onclick="ptExportProgress()">⬇ Export progress</button>
     <button onclick="document.getElementById('importFile').click()">⬆ Import progress</button>
-    <input type="file" id="importFile" accept="application/json" style="display:none" onchange="importProgress(event)">
-    <button onclick="if(confirm('Reset ALL progress?')) resetAll()">🗑 Reset all</button>
+    <input type="file" id="importFile" accept="application/json" style="display:none" onchange="handleImport(event)">
+    <button onclick="if(confirm('Reset ALL progress?')) { ptResetAll(); render(); }">🗑 Reset all</button>
   </div>
 
   <footer>
@@ -145,73 +96,13 @@
   </footer>
 </div>
 
+<script src="assets/app.js"></script>
 <script>
-const LANGUAGES = [
-  { id: 'italian',   name: 'Italian',   flag: '🇮🇹', color: '#2ea86f' },
-  { id: 'spanish',   name: 'Spanish',   flag: '🇪🇸', color: '#d9534f' },
-  { id: 'french',    name: 'French',    flag: '🇫🇷', color: '#4a7fd6' },
-  { id: 'kannada',   name: 'Kannada',   flag: '🇮🇳', color: '#e0923c' },
-  { id: 'malayalam', name: 'Malayalam', flag: '🇮🇳', color: '#2bb5a0' },
-];
-
-const LESSONS = [
-  { id: 1, title: 'Alphabet & Pronunciation', file: '01-alphabet-pronunciation.md' },
-  { id: 2, title: 'Greetings & Introductions', file: '02-greetings-introductions.md' },
-  { id: 3, title: 'Numbers, Days & Time',      file: '03-numbers-time.md' },
-  { id: 4, title: 'Essential Phrases',         file: '04-essential-phrases.md' },
-  { id: 5, title: 'Food & Dining',             file: '05-food-dining.md' },
-  { id: 6, title: 'Travel & Directions',       file: '06-travel-directions.md' },
-  { id: 7, title: 'Grammar Basics',            file: '07-grammar-basics.md' },
-  { id: 8, title: 'Conversation Practice',     file: '08-conversation-practice.md' },
-];
-
-const STORAGE_KEY = 'polyglot-tracker:v1';
-
-function loadState() {
-  try {
-    return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {};
-  } catch (e) { return {}; }
-}
-function saveState(state) {
-  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (e) {}
-}
-
-let state = loadState();
-
-function isDone(lang, lessonId) {
-  return !!(state[lang] && state[lang][lessonId]);
-}
-function toggle(lang, lessonId) {
-  state[lang] = state[lang] || {};
-  state[lang][lessonId] = !state[lang][lessonId];
-  if (state[lang][lessonId]) {
-    const today = new Date().toISOString().slice(0, 10);
-    state._lastActive = today;
-    updateStreak(today);
-  }
-  saveState(state);
-  render();
-}
-function updateStreak(today) {
-  state._streak = state._streak || { count: 0, last: null };
-  const last = state._streak.last;
-  if (last === today) return;
-  const y = new Date(); y.setDate(y.getDate() - 1);
-  const yesterday = y.toISOString().slice(0, 10);
-  state._streak.count = (last === yesterday) ? state._streak.count + 1 : 1;
-  state._streak.last = today;
-}
-
-function langProgress(lang) {
-  const done = LESSONS.filter(l => isDone(lang, l.id)).length;
-  return { done, total: LESSONS.length, pct: Math.round((done / LESSONS.length) * 100) };
-}
-
 function render() {
   const overview = document.getElementById('overview');
-  const totalDone = LANGUAGES.reduce((sum, l) => sum + langProgress(l.id).done, 0);
+  const totalDone = LANGUAGES.reduce((sum, l) => sum + ptLangProgress(l.id).done, 0);
   const totalAll = LANGUAGES.length * LESSONS.length;
-  const streak = (state._streak && state._streak.count) || 0;
+  const streak = (ptState._streak && ptState._streak.count) || 0;
   overview.innerHTML = `
     <div class="stat"><div class="num">${totalDone}/${totalAll}</div><div class="label">Lessons complete</div></div>
     <div class="stat"><div class="num">${Math.round((totalDone/totalAll)*100)}%</div><div class="label">Overall progress</div></div>
@@ -221,15 +112,16 @@ function render() {
 
   const grid = document.getElementById('langGrid');
   grid.innerHTML = LANGUAGES.map(lang => {
-    const p = langProgress(lang.id);
+    const p = ptLangProgress(lang.id);
     const rows = LESSONS.map(l => {
-      const done = isDone(lang.id, l.id);
+      const done = ptIsDone(lang.id, l.id);
+      const href = `lesson.html?lang=${lang.id}&id=${l.id}`;
       return `
         <div class="lesson-row ${done ? 'done' : ''}">
           <input type="checkbox" ${done ? 'checked' : ''}
-                 onchange="toggle('${lang.id}', ${l.id})" />
+                 onchange="ptToggleDone('${lang.id}', ${l.id}); render();" />
           <span class="lesson-num">${String(l.id).padStart(2,'0')}</span>
-          <a href="languages/${lang.id}/${l.file}" target="_blank">${l.title}</a>
+          <a href="${href}">${l.title}</a>
         </div>`;
     }).join('');
     return `
@@ -244,33 +136,14 @@ function render() {
   }).join('');
 }
 
-function exportProgress() {
-  const blob = new Blob([JSON.stringify(state, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement('a');
-  a.href = url;
-  a.download = 'polyglot-progress.json';
-  a.click();
-  URL.revokeObjectURL(url);
-}
-function importProgress(event) {
+function handleImport(event) {
   const file = event.target.files[0];
   if (!file) return;
-  const reader = new FileReader();
-  reader.onload = e => {
-    try {
-      state = JSON.parse(e.target.result) || {};
-      saveState(state);
-      render();
-    } catch (err) { alert('Invalid progress file.'); }
-  };
-  reader.readAsText(file);
+  ptImportProgress(file, ok => {
+    if (!ok) alert('Invalid progress file.');
+    render();
+  });
   event.target.value = '';
-}
-function resetAll() {
-  state = {};
-  saveState(state);
-  render();
 }
 
 render();

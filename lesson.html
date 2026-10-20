@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lesson · Polyglot Tracker</title>
+<link rel="stylesheet" href="assets/theme.css">
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<style>
+  body { padding-bottom: 60px; }
+  .topbar {
+    position: sticky; top: 0; z-index: 10;
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 12px; flex-wrap: wrap;
+    padding: 12px 16px;
+    background: var(--panel);
+    border-bottom: 1px solid var(--border);
+  }
+  .lesson-meta { display: flex; align-items: center; gap: 8px; font-weight: 700; font-size: 0.95rem; }
+  .lesson-meta .flag { font-size: 1.2rem; }
+  .lesson-meta .sep { color: var(--text-dim); font-weight: 400; }
+  .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  button.active { border-color: var(--accent); color: var(--accent); }
+
+  .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 0; }
+  .progress-strip { margin-bottom: 20px; }
+  .progress-strip .label { display: flex; justify-content: space-between; font-size: 0.8rem; color: var(--text-dim); margin-bottom: 6px; }
+
+  #content.md { line-height: 1.65; font-size: 1rem; }
+  #content.md h1 { font-size: 1.6rem; margin-top: 0; }
+  #content.md h2 { font-size: 1.2rem; margin-top: 2em; padding-bottom: 6px; border-bottom: 1px solid var(--border); }
+  #content.md h3 { font-size: 1.05rem; margin-top: 1.6em; }
+  #content.md p { color: var(--text); }
+  #content.md a { text-decoration: none; }
+  #content.md a:hover { text-decoration: underline; }
+  #content.md ul, #content.md ol { padding-left: 1.3em; }
+  #content.md li { margin: 4px 0; }
+  #content.md blockquote {
+    margin: 1em 0; padding: 8px 14px;
+    border-left: 3px solid var(--accent);
+    background: var(--panel); border-radius: 0 10px 10px 0;
+    color: var(--text-dim);
+  }
+  #content.md code {
+    background: var(--panel-2); border: 1px solid var(--border);
+    border-radius: 5px; padding: 1px 6px; font-size: 0.9em;
+  }
+  #content.md table {
+    width: 100%; border-collapse: collapse; margin: 1em 0;
+    background: var(--panel); border: 1px solid var(--border); border-radius: 12px; overflow: hidden;
+  }
+  #content.md th, #content.md td {
+    text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--border); font-size: 0.92rem;
+  }
+  #content.md th { background: var(--panel-2); color: var(--text-dim); font-size: 0.78rem; text-transform: uppercase; letter-spacing: .03em; }
+  #content.md tbody tr:last-child td { border-bottom: none; }
+  #content.md tbody tr:hover { background: var(--panel-2); }
+  #content.md hr { border: none; border-top: 1px solid var(--border); margin: 2em 0; }
+
+  #content.md.flashcard-mode tbody tr td:last-child {
+    filter: blur(7px);
+    cursor: pointer;
+    background: var(--panel-2);
+    border-radius: 6px;
+    user-select: none;
+    transition: filter .15s ease;
+  }
+  #content.md.flashcard-mode tbody tr td:last-child:hover { filter: blur(4px); }
+  #content.md.flashcard-mode tbody tr td:last-child.revealed { filter: none; background: transparent; }
+  .flashcard-hint {
+    display: none; font-size: 0.8rem; color: var(--text-dim); margin: -8px 0 16px;
+  }
+  .flashcard-hint.show { display: block; }
+
+  .lesson-nav { display: flex; justify-content: space-between; gap: 10px; margin: 36px 0 20px; }
+  .lesson-nav .btn.disabled { opacity: .35; pointer-events: none; }
+  .not-found { max-width: 480px; margin: 80px auto; text-align: center; color: var(--text-dim); }
+</style>
+</head>
+<body>
+<div class="topbar">
+  <a class="btn" href="index.html">← Dashboard</a>
+  <div class="lesson-meta" id="lessonMeta"></div>
+  <div class="actions">
+    <button id="flashcardBtn" onclick="toggleFlashcard()">🧠 Flashcard mode</button>
+    <button id="completeBtn" class="primary" onclick="toggleComplete()">Mark complete</button>
+  </div>
+</div>
+
+<div class="wrap" id="app">
+  <div class="progress-strip">
+    <div class="label"><span id="progressLabel"></span></div>
+    <div class="bar"><div class="bar-fill" id="progressBar"></div></div>
+  </div>
+  <p class="flashcard-hint" id="flashcardHint">🧠 Flashcard mode is on — the last column of every table is hidden. Click a cell to reveal it.</p>
+  <article id="content" class="md">Loading…</article>
+  <nav class="lesson-nav">
+    <a class="btn" id="prevLink">← Prev</a>
+    <a class="btn" id="nextLink">Next →</a>
+  </nav>
+</div>
+
+<script src="assets/app.js"></script>
+<script>
+function qs(name) { return new URLSearchParams(location.search).get(name); }
+
+const langId = qs('lang');
+const lessonId = parseInt(qs('id'), 10);
+const lang = LANGUAGES.find(l => l.id === langId);
+const lesson = LESSONS.find(l => l.id === lessonId);
+
+if (!lang || !lesson) {
+  document.getElementById('app').innerHTML =
+    '<div class="not-found"><p>Lesson not found.</p><a class="btn" href="index.html">← Back to dashboard</a></div>';
+} else {
+  init();
+}
+
+function toggleComplete() {
+  ptToggleDone(lang.id, lesson.id);
+  updateChrome();
+}
+
+function updateChrome() {
+  const p = ptLangProgress(lang.id);
+  document.getElementById('lessonMeta').innerHTML =
+    `<span class="flag">${lang.flag}</span> ${lang.name} <span class="sep">·</span> Lesson ${String(lesson.id).padStart(2,'0')}: ${lesson.title}`;
+  document.getElementById('progressLabel').textContent =
+    `${lang.name} progress — ${p.done}/${p.total} lessons`;
+  document.getElementById('progressBar').style.width = p.pct + '%';
+  document.getElementById('progressBar').style.background = lang.color;
+
+  const done = ptIsDone(lang.id, lesson.id);
+  const btn = document.getElementById('completeBtn');
+  btn.textContent = done ? '✓ Lesson complete' : 'Mark complete';
+  btn.classList.toggle('done', done);
+
+  const idx = LESSONS.findIndex(l => l.id === lesson.id);
+  const prev = LESSONS[idx - 1];
+  const next = LESSONS[idx + 1];
+  const prevLink = document.getElementById('prevLink');
+  const nextLink = document.getElementById('nextLink');
+  if (prev) { prevLink.href = `lesson.html?lang=${lang.id}&id=${prev.id}`; prevLink.classList.remove('disabled'); prevLink.textContent = `← ${prev.title}`; }
+  else { prevLink.classList.add('disabled'); prevLink.textContent = '← Prev'; }
+  if (next) { nextLink.href = `lesson.html?lang=${lang.id}&id=${next.id}`; nextLink.classList.remove('disabled'); nextLink.textContent = `${next.title} →`; }
+  else { nextLink.classList.add('disabled'); nextLink.textContent = 'Next →'; }
+}
+
+function toggleFlashcard() {
+  const content = document.getElementById('content');
+  const on = content.classList.toggle('flashcard-mode');
+  document.getElementById('flashcardBtn').classList.toggle('active', on);
+  document.getElementById('flashcardHint').classList.toggle('show', on);
+  content.querySelectorAll('td.revealed').forEach(td => td.classList.remove('revealed'));
+}
+
+document.getElementById('content').addEventListener('click', e => {
+  const content = document.getElementById('content');
+  if (!content.classList.contains('flashcard-mode')) return;
+  const td = e.target.closest('td');
+  if (!td) return;
+  const row = td.parentElement;
+  if (td !== row.lastElementChild) return;
+  td.classList.toggle('revealed');
+});
+
+async function init() {
+  document.title = `${lesson.title} · ${lang.name} · Polyglot Tracker`;
+  updateChrome();
+  try {
+    const res = await fetch(`languages/${lang.id}/${lesson.file}`);
+    if (!res.ok) throw new Error('fetch failed: ' + res.status);
+    const md = await res.text();
+    document.getElementById('content').innerHTML = marked.parse(md);
+  } catch (e) {
+    document.getElementById('content').innerHTML =
+      `<p>Could not load lesson content (${e.message}). <a href="languages/${lang.id}/${lesson.file}">Open the raw file instead</a>.</p>`;
+  }
+}
+</script>
+</body>
+</html>
