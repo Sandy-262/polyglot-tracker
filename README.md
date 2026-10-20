@@ -2,22 +2,18 @@
 
 A personal, spoken-first language library and progress tracker for **Italian, Spanish, French, Kannada, and Malayalam** — structured lessons, a beautiful interactive dashboard, and curated listening resources (no bundled audio files, since quality native recordings are freely available online and stay up to date better than anything baked into a repo).
 
+**🔗 Live dashboard: [sandy-262.github.io/polyglot-tracker](https://sandy-262.github.io/polyglot-tracker/)**
+
 ## Why this exists
 
 The goal is conversational fluency, not grammar-exam fluency. Each language gets the same 8-lesson arc so you can track apples-to-apples progress across languages, with extra scaffolding for Kannada and Malayalam since they use their own scripts and SOV (subject-object-verb) word order — a bigger jump from English than the Romance languages.
 
 ## Quick start
 
-1. Open [`index.html`](index.html) in your browser (double-click it, or use a local server / GitHub Pages — see below).
+1. Open the [live dashboard](https://sandy-262.github.io/polyglot-tracker/) (or `index.html` locally — double-click it).
 2. Click a lesson link to open it, work through it, then check it off on the dashboard.
 3. Your progress, streak, and completion % are saved automatically in your browser (`localStorage`).
-4. Use **Export progress** occasionally to back up your progress as a JSON file (browser storage can be cleared or is per-device).
-
-> **No server required.** The dashboard works by just opening `index.html` directly, and lesson links open the Markdown files in a new tab so you can read them (GitHub, most browsers, and any Markdown viewer render them nicely).
-
-### Optional: host it on GitHub Pages
-
-Settings → Pages → Deploy from branch `main` / root. You'll get a shareable dashboard URL and can track progress from any device (note: `localStorage` is still per-browser, so progress won't sync across devices unless you export/import).
+4. Use **Export progress** occasionally to back up your progress as a JSON file (browser storage is per-device/per-browser, so it won't sync across devices on its own — export on one, import on another).
 
 ## Repo structure
 
