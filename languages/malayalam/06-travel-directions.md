@@ -4,41 +4,41 @@
 
 ## Direction words
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| വലത് | valathŭ | right |
-| ഇടത് | iṭathŭ | left |
-| നേരെ | nēre | straight |
-| അടുത്ത് | aṭuththŭ | near |
-| ദൂരെ | dūre | far |
-| മുന്നിൽ | munnil | in front |
-| പിന്നിൽ | pinnil | behind |
-| ഇവിടെ | iviṭe | here |
-| അവിടെ | aviṭe | there |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| വലത് | valathŭ | VUH-luh-thu | right |
+| ഇടത് | iṭathŭ | I-duh-thu | left |
+| നേരെ | nēre | NAY-reh | straight |
+| അടുത്ത് | aṭuththŭ | uh-DUT-tu | near |
+| ദൂരെ | dūre | DOO-reh | far |
+| മുന്നിൽ | munnil | MUN-nil | in front |
+| പിന്നിൽ | pinnil | PIN-nil | behind |
+| ഇവിടെ | iviṭe | I-vi-deh | here |
+| അവിടെ | aviṭe | UH-vi-deh | there |
 
 ## Asking & giving directions
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| ... എങ്ങനെ പോകാം? | ... eṅṅane pōkām? | how do I get to ...? |
-| ഇത് എവിടെയാണ്? | ithŭ eviṭeyāṇŭ? | where is this? |
-| വലത്തേക്ക് തിരിയുക | valaththēkku thiriyuka | turn right |
-| ഇടത്തേക്ക് തിരിയുക | iṭaththēkku thiriyuka | turn left |
-| നേരെ പോകുക | nēre pōkuka | go straight |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| ... എങ്ങനെ പോകാം? | ... eṅṅane pōkām? | eng-NGA-neh po-KAAM | how do I get to ...? |
+| ഇത് എവിടെയാണ്? | ithŭ eviṭeyāṇŭ? | I-thu eh-vi-deh-YAA-nu | where is this? |
+| വലത്തേക്ക് തിരിയുക | valaththēkku thiriyuka | vuh-lut-TAY-ku thi-ri-yu-kuh | turn right |
+| ഇടത്തേക്ക് തിരിയുക | iṭaththēkku thiriyuka | i-dut-TAY-ku thi-ri-yu-kuh | turn left |
+| നേരെ പോകുക | nēre pōkuka | NAY-reh PO-ku-kuh | go straight |
 
 ## Transport vocabulary
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| ഓട്ടോ | ōṭṭō | auto-rickshaw |
-| ബസ് | bas | bus |
-| ട്രെയിൻ | ṭrain | train |
-| ബോട്ട് | bōṭṭŭ | boat |
-| ഹൗസ് ബോട്ട് | hauṣ bōṭṭŭ | houseboat (iconic for Kerala backwaters) |
-| വിമാനത്താവളം | vimānaththāvaḷam | airport |
-| സ്റ്റേഷൻ | sṭēṣan | station |
-| ടിക്കറ്റ് | ṭikkaṟṟŭ | ticket |
-| എത്രയാണ് കൂലി? | ethrayāṇŭ kūli? | how much is the fare? |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| ഓട്ടോ | ōṭṭō | OT-to | auto-rickshaw |
+| ബസ് | bas | buss | bus |
+| ട്രെയിൻ | ṭrain | train | train |
+| ബോട്ട് | bōṭṭŭ | BOT-tu | boat |
+| ഹൗസ് ബോട്ട് | hauṣ bōṭṭŭ | house BOT-tu | houseboat (iconic for Kerala backwaters) |
+| വിമാനത്താവളം | vimānaththāvaḷam | vi-maa-nut-TAA-vuh-lum | airport |
+| സ്റ്റേഷൻ | sṭēṣan | STAY-shun | station |
+| ടിക്കറ്റ് | ṭikkaṟṟŭ | TIK-kut-tu | ticket |
+| എത്രയാണ് കൂലി? | ethrayāṇŭ kūli? | eth-ruh-YAA-nu KOO-lee | how much is the fare? |
 
 Kerala's backwaters (കായലുകൾ, *kāyalukaḷ*) are often explored by houseboat — knowing "hauṣ bōṭṭŭ" and "eviṭeyāṇŭ" will take you a long way as a traveler.
 

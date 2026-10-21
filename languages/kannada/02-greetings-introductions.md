@@ -8,35 +8,35 @@ Kannada (like most Indian languages) has distinct respectful/formal forms, used 
 
 ## Greetings
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ನಮಸ್ಕಾರ | namaskaara | Hello / Greetings (formal, respectful) |
-| ಹಾಯ್ | haay | Hi (casual) |
-| ಶುಭ ಮುಂಜಾನೆ | shubha munjaane | Good morning |
-| ಶುಭ ಸಂಜೆ | shubha sanje | Good evening |
-| ಶುಭ ರಾತ್ರಿ | shubha raatri | Good night |
-| ಬರ್ತೀನಿ | bartiini | Bye (casual, "I'll come/go") |
-| ಮತ್ತೆ ಸಿಗೋಣ | matte sigoNa | See you again |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ನಮಸ್ಕಾರ | namaskaara | nuh-mus-KAH-rah | Hello / Greetings (formal, respectful) |
+| ಹಾಯ್ | haay | HAI | Hi (casual) |
+| ಶುಭ ಮುಂಜಾನೆ | shubha munjaane | SHOO-bhuh moon-JAH-neh | Good morning |
+| ಶುಭ ಸಂಜೆ | shubha sanje | SHOO-bhuh SUN-jeh | Good evening |
+| ಶುಭ ರಾತ್ರಿ | shubha raatri | SHOO-bhuh RAHT-ree | Good night |
+| ಬರ್ತೀನಿ | bartiini | bar-TEE-nee | Bye (casual, "I'll come/go") |
+| ಮತ್ತೆ ಸಿಗೋಣ | matte sigoNa | MUT-teh see-GOH-nuh | See you again |
 
 ## How are you?
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ನೀವು ಹೇಗಿದ್ದೀರಾ? | niivu heegiddiiraa? | How are you? (formal) |
-| ನೀನು ಹೇಗಿದ್ದೀಯ? | niinu heegiddiiya? | How are you? (casual) |
-| ನಾನು ಚೆನ್ನಾಗಿದ್ದೀನಿ | naanu chennaagiddiini | I am fine |
-| ಚೆನ್ನಾಗಿದ್ದೀನಿ, ಧನ್ಯವಾದಗಳು | chennaagiddiini, dhanyavaadagaLu | I'm fine, thank you |
-| ನಿಮ್ಮ ಬಗ್ಗೆ? | nimma bagge? | And you? (formal) |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ನೀವು ಹೇಗಿದ್ದೀರಾ? | niivu heegiddiiraa? | NEE-voo hay-gid-DEE-rah | How are you? (formal) |
+| ನೀನು ಹೇಗಿದ್ದೀಯ? | niinu heegiddiiya? | NEE-noo hay-gid-DEE-yah | How are you? (casual) |
+| ನಾನು ಚೆನ್ನಾಗಿದ್ದೀನಿ | naanu chennaagiddiini | NAH-noo chen-NAH-gid-DEE-nee | I am fine |
+| ಚೆನ್ನಾಗಿದ್ದೀನಿ, ಧನ್ಯವಾದಗಳು | chennaagiddiini, dhanyavaadagaLu | chen-NAH-gid-DEE-nee, dhun-yuh-VAH-duh-guh-loo | I'm fine, thank you |
+| ನಿಮ್ಮ ಬಗ್ಗೆ? | nimma bagge? | NIM-muh BUG-geh | And you? (formal) |
 
 ## Introductions
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ನನ್ನ ಹೆಸರು ___ | nanna hesaru ___ | My name is ___ |
-| ನಿಮ್ಮ ಹೆಸರೇನು? | nimma hesareenu? | What is your name? (formal) |
-| ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿ ಸಂತೋಷ | nimmannu bheeTiyaagi santoosha | Nice to meet you |
-| ನಾನು ಅಮೆರಿಕದಿಂದ ಬಂದಿದ್ದೇನೆ | naanu amerikadinda bandiddeene | I am from America |
-| ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಾ? | niivu ellinda bandiddiiraa? | Where are you from? |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ನನ್ನ ಹೆಸರು ___ | nanna hesaru ___ | NUN-nuh HEH-suh-roo | My name is ___ |
+| ನಿಮ್ಮ ಹೆಸರೇನು? | nimma hesareenu? | NIM-muh heh-suh-REE-noo | What is your name? (formal) |
+| ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿ ಸಂತೋಷ | nimmannu bheeTiyaagi santoosha | nim-MUN-noo bay-tee-YAH-gee sun-TOH-shuh | Nice to meet you |
+| ನಾನು ಅಮೆರಿಕದಿಂದ ಬಂದಿದ್ದೇನೆ | naanu amerikadinda bandiddeene | NAH-noo uh-meh-ree-kuh-DIN-duh bun-did-DEE-neh | I am from America |
+| ನೀವು ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೀರಾ? | niivu ellinda bandiddiiraa? | NEE-voo el-LIN-duh bun-did-DEE-rah | Where are you from? |
 
 ## Example dialogue
 

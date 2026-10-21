@@ -4,42 +4,42 @@
 
 ## Restaurant basics
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| ഹോട്ടൽ | hōṭṭal | restaurant (colloquial — "hotel" means eatery in Kerala) |
-| മെനു | menu | menu |
-| എനിക്ക് ... വേണം | enikku ... vēṇam | I want ... |
-| ഒരു ... തരുമോ? | oru ... tharumō? | could I have a ...? |
-| ബിൽ തരുമോ? | bil tharumō? | could I have the bill? |
-| ഇത് നല്ല രുചിയാണ് | ithŭ nalla ruchiyāṇŭ | this tastes good |
-| എരിവ് കൂടുതലാണ് | erivŭ kūṭuthalāṇŭ | it's too spicy |
-| വെള്ളം തരുമോ? | veḷḷam tharumō? | could I have water? |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| ഹോട്ടൽ | hōṭṭal | HOT-tal | restaurant (colloquial — "hotel" means eatery in Kerala) |
+| മെനു | menu | MEH-noo | menu |
+| എനിക്ക് ... വേണം | enikku ... vēṇam | eh-NIK-ku VAY-num | I want ... |
+| ഒരു ... തരുമോ? | oru ... tharumō? | OH-roo thuh-ru-MO | could I have a ...? |
+| ബിൽ തരുമോ? | bil tharumō? | bill thuh-ru-MO | could I have the bill? |
+| ഇത് നല്ല രുചിയാണ് | ithŭ nalla ruchiyāṇŭ | I-thu NUL-luh ru-chi-YAA-nu | this tastes good |
+| എരിവ് കൂടുതലാണ് | erivŭ kūṭuthalāṇŭ | EH-ri-vu koo-du-thuh-LAA-nu | it's too spicy |
+| വെള്ളം തരുമോ? | veḷḷam tharumō? | VEL-lum thuh-ru-MO | could I have water? |
 
 ## Dietary phrases
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| ഞാൻ വെജിറ്റേറിയൻ ആണ് | ñān vejiṭeriyan āṇŭ | I am vegetarian |
-| എനിക്ക് ... അലർജിയാണ് | enikku ... alarjiyāṇŭ | I'm allergic to ... |
-| മാംസം ഇല്ലാതെ | māmsam illāthe | without meat |
-| എരിവ് കുറച്ച് | erivŭ kuṟachŭ | less spicy |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| ഞാൻ വെജിറ്റേറിയൻ ആണ് | ñān vejiṭeriyan āṇŭ | nyaan veh-ji-TEH-ri-yun AA-nu | I am vegetarian |
+| എനിക്ക് ... അലർജിയാണ് | enikku ... alarjiyāṇŭ | eh-NIK-ku uh-lar-ji-YAA-nu | I'm allergic to ... |
+| മാംസം ഇല്ലാതെ | māmsam illāthe | MAAM-sum il-LAA-theh | without meat |
+| എരിവ് കുറച്ച് | erivŭ kuṟachŭ | EH-ri-vu ku-RUH-chu | less spicy |
 
 ## Common Kerala dishes & drinks
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| ചോറ് | chōṟŭ | cooked rice |
-| സാമ്പാർ | sāmbār | sambar (lentil-vegetable stew) |
-| അവിയൽ | aviyal | mixed-vegetable coconut curry |
-| പുട്ട് | puṭṭŭ | steamed rice-cake (breakfast staple) |
-| അപ്പം | appam | lacy rice-and-coconut pancake |
-| ഇഡ്ഡലി | iḍḍali | idli (steamed rice cake) |
-| ദോശ | dōśa | dosa (rice-lentil crepe) |
-| മീൻ കറി | mīn kaṟi | fish curry |
-| ചായ | chāya | tea |
-| കാപ്പി | kāppi | coffee |
-| ഇളനീർ | iḷanīr | tender coconut water |
-| പായസം | pāyasam | sweet milk/kheer dessert |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| ചോറ് | chōṟŭ | CHO-ru | cooked rice |
+| സാമ്പാർ | sāmbār | saam-BAAR | sambar (lentil-vegetable stew) |
+| അവിയൽ | aviyal | UH-vi-yul | mixed-vegetable coconut curry |
+| പുട്ട് | puṭṭŭ | PUT-tu | steamed rice-cake (breakfast staple) |
+| അപ്പം | appam | UP-pum | lacy rice-and-coconut pancake |
+| ഇഡ്ഡലി | iḍḍali | ID-duh-lee | idli (steamed rice cake) |
+| ദോശ | dōśa | DO-shuh | dosa (rice-lentil crepe) |
+| മീൻ കറി | mīn kaṟi | meen KUH-ri | fish curry |
+| ചായ | chāya | CHAA-yuh | tea |
+| കാപ്പി | kāppi | KAAP-pee | coffee |
+| ഇളനീർ | iḷanīr | i-luh-NEER | tender coconut water |
+| പായസം | pāyasam | PAA-yuh-sum | sweet milk/kheer dessert |
 
 ## Mini restaurant dialogue
 

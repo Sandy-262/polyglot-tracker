@@ -4,40 +4,40 @@
 
 ## Restaurant basics
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ಹೋಟೆಲ್ | hoTel | restaurant (common usage in Karnataka) |
-| ಮೆನು | menu | menu |
-| ನನಗೆ ___ ಬೇಕು | nanage ___ beeku | I want ___ |
-| ದಯವಿಟ್ಟು ಇದನ್ನು ಕೊಡಿ | dayaviTTu idannu koDi | Please give me this |
-| ನೀರು ಬೇಕು | niiru beeku | I need water |
-| ಬಿಲ್ ಕೊಡಿ | bill koDi | Please bring the bill |
-| ರುಚಿಯಾಗಿದೆ | ruchiyaagide | It's tasty |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ಹೋಟೆಲ್ | hoTel | hoh-TEL | restaurant (common usage in Karnataka) |
+| ಮೆನು | menu | MEH-noo | menu |
+| ನನಗೆ ___ ಬೇಕು | nanage ___ beeku | NUH-nuh-geh BAY-koo | I want ___ |
+| ದಯವಿಟ್ಟು ಇದನ್ನು ಕೊಡಿ | dayaviTTu idannu koDi | duh-yuh-VIT-too EE-dun-noo KOH-dee | Please give me this |
+| ನೀರು ಬೇಕು | niiru beeku | NEE-roo BAY-koo | I need water |
+| ಬಿಲ್ ಕೊಡಿ | bill koDi | bill KOH-dee | Please bring the bill |
+| ರುಚಿಯಾಗಿದೆ | ruchiyaagide | roo-chee-YAH-gee-deh | It's tasty |
 
 ## Common Karnataka dishes & drinks
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ಇಡ್ಲಿ | iDli | steamed rice cake |
-| ದೋಸೆ | doose | dosa (crepe) |
-| ಸಾಂಬಾರ್ | saambaar | lentil & vegetable stew |
-| ಅನ್ನ | anna | rice |
-| ಚಟ್ನಿ | chaTni | chutney |
-| ಬಿಸಿ ಬೇಳೆ ಬಾತ್ | bisi beeLe baat | spiced rice-lentil dish (Karnataka specialty) |
-| ಕಾಫಿ | kaafi | coffee |
-| ಚಹಾ | chahaa | tea |
-| ಮೊಸರು | mosaru | yogurt / curd |
-| ಹಣ್ಣಿನ ರಸ | haNNina rasa | fruit juice |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ಇಡ್ಲಿ | iDli | ID-lee | steamed rice cake |
+| ದೋಸೆ | doose | DOH-seh | dosa (crepe) |
+| ಸಾಂಬಾರ್ | saambaar | SAHM-bar | lentil & vegetable stew |
+| ಅನ್ನ | anna | UN-nuh | rice |
+| ಚಟ್ನಿ | chaTni | CHUT-nee | chutney |
+| ಬಿಸಿ ಬೇಳೆ ಬಾತ್ | bisi beeLe baat | BEE-see BAY-leh baht | spiced rice-lentil dish (Karnataka specialty) |
+| ಕಾಫಿ | kaafi | KAH-fee | coffee |
+| ಚಹಾ | chahaa | chuh-HAH | tea |
+| ಮೊಸರು | mosaru | MOH-suh-roo | yogurt / curd |
+| ಹಣ್ಣಿನ ರಸ | haNNina rasa | HUN-nee-nuh RUH-suh | fruit juice |
 
 ## Dietary phrases
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ನಾನು ಸಸ್ಯಾಹಾರಿ | naanu sasyaahaari | I am vegetarian |
-| ನಾನು ಮಾಂಸಾಹಾರ ತಿನ್ನುವುದಿಲ್ಲ | naanu maamsaahaara tinnuvudilla | I don't eat meat |
-| ನನಗೆ ___ ಅಲರ್ಜಿ | nanage ___ alarji | I'm allergic to ___ |
-| ಕಡಿಮೆ ಖಾರ ಬೇಕು | kaDime khaara beeku | I want it less spicy |
-| ಸಕ್ಕರೆ ಇಲ್ಲದೆ | sakkare illade | without sugar |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ನಾನು ಸಸ್ಯಾಹಾರಿ | naanu sasyaahaari | NAH-noo sus-yuh-HAH-ree | I am vegetarian |
+| ನಾನು ಮಾಂಸಾಹಾರ ತಿನ್ನುವುದಿಲ್ಲ | naanu maamsaahaara tinnuvudilla | NAH-noo mahm-suh-HAH-ruh tin-noo-voo-DIL-luh | I don't eat meat |
+| ನನಗೆ ___ ಅಲರ್ಜಿ | nanage ___ alarji | NUH-nuh-geh uh-LUR-jee | I'm allergic to ___ |
+| ಕಡಿಮೆ ಖಾರ ಬೇಕು | kaDime khaara beeku | kuh-DEE-meh KHAH-ruh BAY-koo | I want it less spicy |
+| ಸಕ್ಕರೆ ಇಲ್ಲದೆ | sakkare illade | SUK-kuh-reh il-LAH-deh | without sugar |
 
 Note: vegetarian food is the cultural default in much of Karnataka, so "sasyaahaari" is an extremely common and well-understood word — don't hesitate to use it.
 

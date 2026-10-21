@@ -20,6 +20,8 @@ Kannada has sounds English doesn't mark clearly, so every lesson here uses this 
 
 This is a simplified teaching romanization, not a strict academic transliteration standard (like ISO 15919) — good enough to be understood and to read your own notes back.
 
+From Lesson 2 onward, vocabulary tables also include an **"English phonetic"** column — a rough, speakable approximation spelled the way an English speaker would naturally read it, with the stressed syllable in CAPS (e.g. `namaskaara` → `nuh-mus-KAH-rah`). It's there so you can say something out loud immediately without first learning the romanization rules above. It is *not* precise: English spelling can't mark the dental-vs-retroflex distinction or exact vowel length, so for anything beyond "good enough to be understood," lean on the Kannada script, the Romanized column, and the Listen & Practice audio links instead.
+
 ## Vowels (ಸ್ವರಗಳು — swaragalu)
 
 | Kannada | Romanized | Sounds like |
@@ -60,18 +62,18 @@ The dental vs. retroflex distinction (`t`/`T`, `d`/`D`, `n`/`N`, `l`/`L`) is the
 
 ## Example words to practice the tricky sounds
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ಅಮ್ಮ | amma | mother |
-| ಅಪ್ಪ | appa | father |
-| ಊಟ | uuTa | meal |
-| ಕಾಫಿ | kaafi | coffee |
-| ನಾಡು | naaDu | land/country |
-| ಹಣ್ಣು | haNNu | fruit |
-| ಕೆಳಗೆ | keLage | below |
-| ಹುಡುಗ | huDuga | boy |
-| ತಂದೆ | tande | father (formal) |
-| ದಾರಿ | daari | path/way |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ಅಮ್ಮ | amma | UM-muh | mother |
+| ಅಪ್ಪ | appa | UP-puh | father |
+| ಊಟ | uuTa | OO-tuh | meal |
+| ಕಾಫಿ | kaafi | KAH-fee | coffee |
+| ನಾಡು | naaDu | NAH-doo | land/country |
+| ಹಣ್ಣು | haNNu | HUN-noo | fruit |
+| ಕೆಳಗೆ | keLage | keh-LAH-geh | below |
+| ಹುಡುಗ | huDuga | hoo-DOO-guh | boy |
+| ತಂದೆ | tande | THAN-deh | father (formal) |
+| ದಾರಿ | daari | DAH-ree | path/way |
 
 ## Listen & Practice
 

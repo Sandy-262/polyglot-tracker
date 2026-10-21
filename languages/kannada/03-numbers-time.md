@@ -4,72 +4,72 @@
 
 ## Numbers 0–20
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ಸೊನ್ನೆ | sonne | 0 |
-| ಒಂದು | ondu | 1 |
-| ಎರಡು | eraDu | 2 |
-| ಮೂರು | muuru | 3 |
-| ನಾಲ್ಕು | naalku | 4 |
-| ಐದು | aidu | 5 |
-| ಆರು | aaru | 6 |
-| ಏಳು | eeLu | 7 |
-| ಎಂಟು | enTu | 8 |
-| ಒಂಬತ್ತು | ombattu | 9 |
-| ಹತ್ತು | hattu | 10 |
-| ಹನ್ನೊಂದು | hannondu | 11 |
-| ಹನ್ನೆರಡು | hanneraDu | 12 |
-| ಹದಿಮೂರು | hadimuuru | 13 |
-| ಹದಿನಾಲ್ಕು | hadinaalku | 14 |
-| ಹದಿನೈದು | hadinaidu | 15 |
-| ಹದಿನಾರು | hadinaaru | 16 |
-| ಹದಿನೇಳು | hadineeLu | 17 |
-| ಹದಿನೆಂಟು | hadinenTu | 18 |
-| ಹತ್ತೊಂಬತ್ತು | hattombattu | 19 |
-| ಇಪ್ಪತ್ತು | ippattu | 20 |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ಸೊನ್ನೆ | sonne | SOHN-neh | 0 |
+| ಒಂದು | ondu | OHN-doo | 1 |
+| ಎರಡು | eraDu | eh-RUH-doo | 2 |
+| ಮೂರು | muuru | MOO-roo | 3 |
+| ನಾಲ್ಕು | naalku | NAHL-koo | 4 |
+| ಐದು | aidu | EYE-doo | 5 |
+| ಆರು | aaru | AH-roo | 6 |
+| ಏಳು | eeLu | AY-loo | 7 |
+| ಎಂಟು | enTu | EN-too | 8 |
+| ಒಂಬತ್ತು | ombattu | ohm-BUT-too | 9 |
+| ಹತ್ತು | hattu | HUT-too | 10 |
+| ಹನ್ನೊಂದು | hannondu | hun-NOHN-doo | 11 |
+| ಹನ್ನೆರಡು | hanneraDu | hun-neh-RUH-doo | 12 |
+| ಹದಿಮೂರು | hadimuuru | huh-dee-MOO-roo | 13 |
+| ಹದಿನಾಲ್ಕು | hadinaalku | huh-dee-NAHL-koo | 14 |
+| ಹದಿನೈದು | hadinaidu | huh-dee-NYE-doo | 15 |
+| ಹದಿನಾರು | hadinaaru | huh-dee-NAH-roo | 16 |
+| ಹದಿನೇಳು | hadineeLu | huh-dee-NAY-loo | 17 |
+| ಹದಿನೆಂಟು | hadinenTu | huh-dee-NEN-too | 18 |
+| ಹತ್ತೊಂಬತ್ತು | hattombattu | hut-tohm-BUT-too | 19 |
+| ಇಪ್ಪತ್ತು | ippattu | ip-PUT-too | 20 |
 
 ## Tens to 100
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ಮೂವತ್ತು | muuvattu | 30 |
-| ನಲ್ವತ್ತು | nalvattu | 40 |
-| ಐವತ್ತು | aivattu | 50 |
-| ಅರವತ್ತು | aravattu | 60 |
-| ಎಪ್ಪತ್ತು | eppattu | 70 |
-| ಎಂಬತ್ತು | embattu | 80 |
-| ತೊಂಬತ್ತು | tombattu | 90 |
-| ನೂರು | nuuru | 100 |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ಮೂವತ್ತು | muuvattu | moo-VUT-too | 30 |
+| ನಲ್ವತ್ತು | nalvattu | nahl-VUT-too | 40 |
+| ಐವತ್ತು | aivattu | eye-VUT-too | 50 |
+| ಅರವತ್ತು | aravattu | uh-ruh-VUT-too | 60 |
+| ಎಪ್ಪತ್ತು | eppattu | ep-PUT-too | 70 |
+| ಎಂಬತ್ತು | embattu | em-BUT-too | 80 |
+| ತೊಂಬತ್ತು | tombattu | tohm-BUT-too | 90 |
+| ನೂರು | nuuru | NOO-roo | 100 |
 
 Compound numbers work like English: 21 = ಇಪ್ಪತ್ತೊಂದು (ippattondu, "twenty-one").
 
 ## Days of the week
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ಸೋಮವಾರ | soomavaara | Monday |
-| ಮಂಗಳವಾರ | mangaLavaara | Tuesday |
-| ಬುಧವಾರ | budhavaara | Wednesday |
-| ಗುರುವಾರ | guruvaara | Thursday |
-| ಶುಕ್ರವಾರ | shukravaara | Friday |
-| ಶನಿವಾರ | shanivaara | Saturday |
-| ಭಾನುವಾರ | bhaanuvaara | Sunday |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ಸೋಮವಾರ | soomavaara | soh-muh-VAH-rah | Monday |
+| ಮಂಗಳವಾರ | mangaLavaara | mun-guh-luh-VAH-rah | Tuesday |
+| ಬುಧವಾರ | budhavaara | boo-dhuh-VAH-rah | Wednesday |
+| ಗುರುವಾರ | guruvaara | goo-roo-VAH-rah | Thursday |
+| ಶುಕ್ರವಾರ | shukravaara | shook-ruh-VAH-rah | Friday |
+| ಶನಿವಾರ | shanivaara | shuh-nee-VAH-rah | Saturday |
+| ಭಾನುವಾರ | bhaanuvaara | bhah-noo-VAH-rah | Sunday |
 
 Months are generally just borrowed from English/Gregorian names in everyday speech (ಜನವರಿ januvari = January, ಫೆಬ್ರವರಿ februvari = February, etc.) — no separate vocabulary needed for now.
 
 ## Telling time
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ಈಗ ಎಷ್ಟು ಗಂಟೆ? | iiga eshTu ganTe? | What time is it now? |
-| ___ ಗಂಟೆ | ___ ganTe | ___ o'clock |
-| ಇವತ್ತು | ivattu | today |
-| ನಾಳೆ | naaLe | tomorrow |
-| ನಿನ್ನೆ | ninne | yesterday |
-| ಬೆಳಿಗ್ಗೆ | beLigge | morning |
-| ಮಧ್ಯಾಹ್ನ | madhyaahna | afternoon |
-| ಸಂಜೆ | sanje | evening |
-| ರಾತ್ರಿ | raatri | night |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ಈಗ ಎಷ್ಟು ಗಂಟೆ? | iiga eshTu ganTe? | EE-guh esh-too GUN-teh | What time is it now? |
+| ___ ಗಂಟೆ | ___ ganTe | GUN-teh | ___ o'clock |
+| ಇವತ್ತು | ivattu | ee-VUT-too | today |
+| ನಾಳೆ | naaLe | NAH-leh | tomorrow |
+| ನಿನ್ನೆ | ninne | NIN-neh | yesterday |
+| ಬೆಳಿಗ್ಗೆ | beLigge | beh-LIG-geh | morning |
+| ಮಧ್ಯಾಹ್ನ | madhyaahna | mud-YAH-nuh | afternoon |
+| ಸಂಜೆ | sanje | SUN-jeh | evening |
+| ರಾತ್ರಿ | raatri | RAHT-ree | night |
 
 Example: "ಈಗ ಮೂರು ಗಂಟೆ" (iiga muuru ganTe) = "It is three o'clock now."
 

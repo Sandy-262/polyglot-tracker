@@ -16,49 +16,49 @@ This single rule explains why Malayalam sentences can feel "backwards" at first 
 
 Malayalam is **agglutinative** — rather than separate words (like English "to the house"), it glues suffixes directly onto the noun or verb stem, often several in a row:
 
-| Malayalam script | Transliteration | Breakdown | English |
-|---|---|---|---|
-| വീട് | vīṭŭ | house | house |
-| വീട്ടിൽ | vīṭṭil | vīṭŭ + il (in/at) | in the house |
-| വീട്ടിലേക്ക് | vīṭṭilēkku | vīṭŭ + il + ēkku (toward) | to the house |
-| വീട്ടിൽ നിന്ന് | vīṭṭil ninnŭ | vīṭŭ + il + ninnŭ (from) | from the house |
+| Malayalam script | Transliteration | Breakdown | English phonetic | English |
+|---|---|---|---|---|
+| വീട് | vīṭŭ | house | VEE-tu | house |
+| വീട്ടിൽ | vīṭṭil | vīṭŭ + il (in/at) | VEET-til | in the house |
+| വീട്ടിലേക്ക് | vīṭṭilēkku | vīṭŭ + il + ēkku (toward) | veet-ti-LAY-ku | to the house |
+| വീട്ടിൽ നിന്ന് | vīṭṭil ninnŭ | vīṭŭ + il + ninnŭ (from) | VEET-til NIN-nu | from the house |
 
 There are no separate words for "a/an/the" (no articles) — context tells you.
 
 ## Pronouns
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| ഞാൻ | ñān | I |
-| നീ | nī | you (intimate) |
-| നിങ്ങൾ | niṅṅaḷ | you (respectful/plural) |
-| അവൻ | avan | he |
-| അവൾ | avaḷ | she |
-| അത് | athŭ | it/that |
-| ഞങ്ങൾ | ñaṅṅaḷ | we (excluding listener) |
-| നമ്മൾ | nammaḷ | we (including listener) |
-| അവർ | avar | they |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| ഞാൻ | ñān | NYAAN | I |
+| നീ | nī | NEE | you (intimate) |
+| നിങ്ങൾ | niṅṅaḷ | NIN-ngal | you (respectful/plural) |
+| അവൻ | avan | UH-vun | he |
+| അവൾ | avaḷ | UH-vul | she |
+| അത് | athŭ | UH-thu | it/that |
+| ഞങ്ങൾ | ñaṅṅaḷ | NYUNG-ngal | we (excluding listener) |
+| നമ്മൾ | nammaḷ | NUM-mal | we (including listener) |
+| അവർ | avar | UH-var | they |
 
 ## "To be" — present tense
 
 Malayalam's "to be" (**ആണ്**, *āṇŭ*) doesn't conjugate for person the way Italian/Spanish/French verbs do — it stays the same regardless of who the subject is:
 
-| Malayalam | Transliteration | English |
-|---|---|---|
-| ഞാൻ വിദ്യാർത്ഥി ആണ് | ñān vidyārthi āṇŭ | I am a student |
-| നീ വിദ്യാർത്ഥി ആണ് | nī vidyārthi āṇŭ | you are a student |
-| അവൻ വിദ്യാർത്ഥി ആണ് | avan vidyārthi āṇŭ | he is a student |
-| അവർ വിദ്യാർത്ഥികൾ ആണ് | avar vidyārthikaḷ āṇŭ | they are students |
+| Malayalam | Transliteration | English phonetic | English |
+|---|---|---|---|
+| ഞാൻ വിദ്യാർത്ഥി ആണ് | ñān vidyārthi āṇŭ | nyaan vid-YAAR-thi AA-nu | I am a student |
+| നീ വിദ്യാർത്ഥി ആണ് | nī vidyārthi āṇŭ | nee vid-YAAR-thi AA-nu | you are a student |
+| അവൻ വിദ്യാർത്ഥി ആണ് | avan vidyārthi āṇŭ | UH-vun vid-YAAR-thi AA-nu | he is a student |
+| അവർ വിദ്യാർത്ഥികൾ ആണ് | avar vidyārthikaḷ āṇŭ | UH-var vid-YAAR-thi-kal AA-nu | they are students |
 
 Only the noun pluralizes (**വിദ്യാർത്ഥി → വിദ്യാർത്ഥികൾ**, student → students, adding **-kaḷ**); the verb **āṇŭ** never changes. This is far simpler than Romance-language conjugation tables — the complexity in Malayalam lives in the noun/verb suffixes, not in person-agreement.
 
 ## Example sentences (SOV in action)
 
-| Malayalam script | Transliteration | Literal order | English |
-|---|---|---|---|
-| ഞാൻ വെള്ളം കുടിക്കുന്നു | ñān veḷḷam kuḍikkunnu | I-water-drink | I drink water |
-| അവൾ പുസ്തകം വായിക്കുന്നു | avaḷ pusthakam vāyikkunnu | she-book-read | she reads a book |
-| നമ്മൾ ചന്തയിലേക്ക് പോകുന്നു | nammaḷ chanthayilēkku pōkunnu | we-to.market-go | we are going to the market |
+| Malayalam script | Transliteration | Literal order | English phonetic | English |
+|---|---|---|---|---|
+| ഞാൻ വെള്ളം കുടിക്കുന്നു | ñān veḷḷam kuḍikkunnu | I-water-drink | nyaan VEL-lum ku-dik-KUN-nu | I drink water |
+| അവൾ പുസ്തകം വായിക്കുന്നു | avaḷ pusthakam vāyikkunnu | she-book-read | UH-vul PUS-thuh-kum vaa-yik-KUN-nu | she reads a book |
+| നമ്മൾ ചന്തയിലേക്ക് പോകുന്നു | nammaḷ chanthayilēkku pōkunnu | we-to.market-go | NUM-mal chun-thuh-yi-LAY-ku po-KUN-nu | we are going to the market |
 
 ## Listen & Practice
 

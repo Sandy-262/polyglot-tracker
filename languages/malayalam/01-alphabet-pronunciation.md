@@ -14,6 +14,8 @@ Malayalam (മലയാളം) is written in its own script, an **abugida** — 
 
 This is a learning aid, not the official ISO transliteration — don't worry about typing it exactly, focus on the sound.
 
+Starting from Lesson 2, vocabulary tables also include an **"English phonetic"** column — a rough, speakable spelling using only plain English letters and syllable stress (e.g. muh-luh-YAA-lum), for when you just want to say something out loud without parsing a diacritic. It can't capture the dental/retroflex contrast or exact vowel length — English spelling has no way to mark those — so treat it as training wheels. The transliteration column, the native script, and the Listen & Practice audio links above are the accurate reference; lean on those once the phonetic spelling gets you in the ballpark.
+
 ## Why this language feels different
 
 Unlike Italian, Spanish and French in this library (all closely related Romance languages), Malayalam is **Dravidian** — unrelated to them in grammar or vocabulary. Two big adjustments:
@@ -55,18 +57,18 @@ Malayalam distinguishes dental vs. retroflex consonants — a contrast English d
 
 ## Example words
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| നല്ല | nallŭ | good |
-| വെള്ളം | veḷḷam | water |
-| കേരളം | kēraḷam | Kerala |
-| മലയാളം | malayāḷam | Malayalam (the language) |
-| അരി | ari | rice (raw) |
-| ചോറ് | chōṟŭ | cooked rice |
-| നാട് | nāṭŭ | country/homeland |
-| കുട്ടി | kuṭṭi | child |
-| അമ്മ | amma | mother |
-| അച്ഛൻ | achchan | father |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| നല്ല | nallŭ | NUL-luh | good |
+| വെള്ളം | veḷḷam | VEL-lum | water |
+| കേരളം | kēraḷam | kay-RUH-lum | Kerala |
+| മലയാളം | malayāḷam | muh-luh-YAA-lum | Malayalam (the language) |
+| അരി | ari | UH-ree | rice (raw) |
+| ചോറ് | chōṟŭ | CHO-ruh | cooked rice |
+| നാട് | nāṭŭ | NAA-du | country/homeland |
+| കുട്ടി | kuṭṭi | KUT-tee | child |
+| അമ്മ | amma | UM-muh | mother |
+| അച്ഛൻ | achchan | UCH-chun | father |
 
 ## Listen & Practice
 

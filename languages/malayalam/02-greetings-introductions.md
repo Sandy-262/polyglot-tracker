@@ -12,21 +12,21 @@ When in doubt, use **niṅṅaḷ**. Using **nī** with the wrong person can sou
 
 ## Core greetings
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| നമസ്കാരം | namaskāram | hello / goodbye (formal, respectful, used anytime) |
-| ഹായ് | hāyŭ | hi (casual, borrowed from English) |
-| സുഖമാണോ? | sukhamāṇō? | how are you? (lit. "is it well?") |
-| സുഖമാണ് | sukhamāṇŭ | I am fine |
-| സുഖമില്ല | sukhamilla | I am not well |
-| നന്നായിരിക്കുന്നു | nannāyirikkunnu | I am doing well (more detailed) |
-| എന്റെ പേര് ... | ente pēru ... | my name is ... |
-| നിങ്ങളുടെ പേരെന്താണ്? | niṅṅaḷuṭe pēr enthāṇŭ? | what is your name? |
-| സന്തോഷം | santhōṣham | nice to meet you (lit. "happiness") |
-| കാണാം | kāṇām | see you (later) |
-| വീണ്ടും കാണാം | vīṇṭum kāṇām | see you again |
-| ശുഭരാത്രി | śubharāthri | good night |
-| ഗുഡ് മോണിംഗ് | guḍ mōṇiṅg | good morning (commonly borrowed from English) |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| നമസ്കാരം | namaskāram | nuh-mus-KAA-rum | hello / goodbye (formal, respectful, used anytime) |
+| ഹായ് | hāyŭ | HAI | hi (casual, borrowed from English) |
+| സുഖമാണോ? | sukhamāṇō? | soo-khuh-MAH-no | how are you? (lit. "is it well?") |
+| സുഖമാണ് | sukhamāṇŭ | soo-khuh-MAHN | I am fine |
+| സുഖമില്ല | sukhamilla | soo-khuh-MIL-luh | I am not well |
+| നന്നായിരിക്കുന്നു | nannāyirikkunnu | nun-naa-yi-rik-KUN-nu | I am doing well (more detailed) |
+| എന്റെ പേര് ... | ente pēru ... | EN-teh PAY-roo | my name is ... |
+| നിങ്ങളുടെ പേരെന്താണ്? | niṅṅaḷuṭe pēr enthāṇŭ? | nin-nga-LU-deh pair en-THAA-nu | what is your name? |
+| സന്തോഷം | santhōṣham | san-THO-shum | nice to meet you (lit. "happiness") |
+| കാണാം | kāṇām | KAA-naam | see you (later) |
+| വീണ്ടും കാണാം | vīṇṭum kāṇām | VEEN-dum KAA-naam | see you again |
+| ശുഭരാത്രി | śubharāthri | shoo-bhuh-RAATH-ree | good night |
+| ഗുഡ് മോണിംഗ് | guḍ mōṇiṅg | good MO-ning | good morning (commonly borrowed from English) |
 
 ## Example dialogue
 
@@ -47,14 +47,14 @@ When in doubt, use **niṅṅaḷ**. Using **nī** with the wrong person can sou
 
 ## Useful extras
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| ഞാൻ | ñān | I |
-| നിങ്ങൾ | niṅṅaḷ | you (respectful) |
-| അവൻ / അവൾ | avan / avaḷ | he / she |
-| സുഖം തന്നെ | sukham thanne | all's well |
-| എവിടെ നിന്നാണ്? | eviṭe ninnāṇŭ? | where are you from? |
-| ഞാൻ ... നിന്നാണ് | ñān ... ninnāṇŭ | I am from ... |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| ഞാൻ | ñān | NYAAN | I |
+| നിങ്ങൾ | niṅṅaḷ | NIN-ngal | you (respectful) |
+| അവൻ / അവൾ | avan / avaḷ | UH-vun / UH-vul | he / she |
+| സുഖം തന്നെ | sukham thanne | SOO-khum THUN-neh | all's well |
+| എവിടെ നിന്നാണ്? | eviṭe ninnāṇŭ? | eh-VI-deh nin-NAA-nu | where are you from? |
+| ഞാൻ ... നിന്നാണ് | ñān ... ninnāṇŭ | NYAAN nin-NAA-nu | I am from ... |
 
 ## Listen & Practice
 

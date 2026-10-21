@@ -4,47 +4,47 @@
 
 ## Politeness words
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ದಯವಿಟ್ಟು | dayaviTTu | Please |
-| ಧನ್ಯವಾದಗಳು | dhanyavaadagaLu | Thank you |
-| ಪರವಾಗಿಲ್ಲ | paravaagilla | You're welcome / It's okay |
-| ಕ್ಷಮಿಸಿ | kshamisi | Sorry / Excuse me |
-| ಹೌದು | haudu | Yes |
-| ಇಲ್ಲ | illa | No |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ದಯವಿಟ್ಟು | dayaviTTu | duh-yuh-VIT-too | Please |
+| ಧನ್ಯವಾದಗಳು | dhanyavaadagaLu | dhun-yuh-VAH-duh-guh-loo | Thank you |
+| ಪರವಾಗಿಲ್ಲ | paravaagilla | puh-ruh-VAH-gil-luh | You're welcome / It's okay |
+| ಕ್ಷಮಿಸಿ | kshamisi | kshuh-MEE-see | Sorry / Excuse me |
+| ಹೌದು | haudu | HOW-doo | Yes |
+| ಇಲ್ಲ | illa | IL-luh | No |
 
 ## Getting by
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ನನಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ | nanage arthavaagalilla | I don't understand |
-| ನಿಮಗೆ ಇಂಗ್ಲಿಷ್ ಬರುತ್ತಾ? | nimage ingliSh baruttaa? | Do you speak English? |
-| ದಯವಿಟ್ಟು ನಿಧಾನವಾಗಿ ಹೇಳಿ | dayaviTTu nidhaanavaagi heLi | Please speak slowly |
-| ಇನ್ನೊಮ್ಮೆ ಹೇಳಿ | innomme heLi | Please say it again |
-| ಶೌಚಾಲಯ ಎಲ್ಲಿದೆ? | shauchaalaya ellide? | Where is the bathroom? |
-| ಇದು ಎಷ್ಟು? | idu eshTu? | How much is this? |
-| ಸ್ವಲ್ಪ ಸಹಾಯ ಮಾಡಿ | svalpa sahaaya maaDi | Please help a little |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ನನಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ | nanage arthavaagalilla | NUH-nuh-geh ar-thuh-VAH-guh-lil-luh | I don't understand |
+| ನಿಮಗೆ ಇಂಗ್ಲಿಷ್ ಬರುತ್ತಾ? | nimage ingliSh baruttaa? | NEE-muh-geh ING-lish buh-ROOT-tah | Do you speak English? |
+| ದಯವಿಟ್ಟು ನಿಧಾನವಾಗಿ ಹೇಳಿ | dayaviTTu nidhaanavaagi heLi | duh-yuh-VIT-too nee-dhah-nuh-VAH-gee HEH-lee | Please speak slowly |
+| ಇನ್ನೊಮ್ಮೆ ಹೇಳಿ | innomme heLi | in-NOHM-meh HEH-lee | Please say it again |
+| ಶೌಚಾಲಯ ಎಲ್ಲಿದೆ? | shauchaalaya ellide? | show-CHAH-luh-yuh el-LEE-deh | Where is the bathroom? |
+| ಇದು ಎಷ್ಟು? | idu eshTu? | EE-doo ESH-too | How much is this? |
+| ಸ್ವಲ್ಪ ಸಹಾಯ ಮಾಡಿ | svalpa sahaaya maaDi | SVUL-puh suh-HAH-yuh MAH-dee | Please help a little |
 
 ## Question words
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ಯಾರು | yaaru | who |
-| ಏನು | enu | what |
-| ಯಾವಾಗ | yaavaaga | when |
-| ಎಲ್ಲಿ | elli | where |
-| ಯಾಕೆ | yaake | why |
-| ಹೇಗೆ | heege | how |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ಯಾರು | yaaru | YAH-roo | who |
+| ಏನು | enu | EH-noo | what |
+| ಯಾವಾಗ | yaavaaga | yah-VAH-guh | when |
+| ಎಲ್ಲಿ | elli | EL-lee | where |
+| ಯಾಕೆ | yaake | YAH-keh | why |
+| ಹೇಗೆ | heege | HEH-geh | how |
 
 Note the SOV pattern again: question words usually slot into the middle/end of the sentence rather than the front, e.g. "idu eshTu?" literally "this how-much?"
 
 ## Mini examples
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ಇದು ಏನು? | idu enu? | What is this? |
-| ಅವರು ಯಾರು? | avaru yaaru? | Who is that (person)? |
-| ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತೀರಾ? | niivu elliGe hoguttiiraa? | Where are you going? |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ಇದು ಏನು? | idu enu? | EE-doo EH-noo | What is this? |
+| ಅವರು ಯಾರು? | avaru yaaru? | UH-vuh-roo YAH-roo | Who is that (person)? |
+| ನೀವು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತೀರಾ? | niivu elliGe hoguttiiraa? | NEE-voo el-lee-GEH hoh-goot-TEE-rah | Where are you going? |
 
 ## Listen & Practice
 

@@ -20,28 +20,28 @@ Unlike Italian/Spanish/French, Kannada nouns don't have masculine/feminine gende
 
 ## Pronouns
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ನಾನು | naanu | I |
-| ನೀವು | niivu | you (formal/plural) |
-| ನೀನು | niinu | you (informal) |
-| ಅವನು | avanu | he |
-| ಅವಳು | avaLu | she |
-| ಅದು | adu | it/that |
-| ನಾವು | naavu | we |
-| ಅವರು | avaru | they (also used respectfully for "he/she") |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ನಾನು | naanu | NAH-noo | I |
+| ನೀವು | niivu | NEE-voo | you (formal/plural) |
+| ನೀನು | niinu | NEE-noo | you (informal) |
+| ಅವನು | avanu | UH-vuh-noo | he |
+| ಅವಳು | avaLu | UH-vuh-loo | she |
+| ಅದು | adu | UH-doo | it/that |
+| ನಾವು | naavu | NAH-voo | we |
+| ಅವರು | avaru | UH-vuh-roo | they (also used respectfully for "he/she") |
 
 ## Present tense of "to be" / "iddene" forms
 
 Kannada doesn't have a single verb "to be" that works exactly like English — instead it uses forms built on **ide/iddene** to express existence/state, matched to the subject:
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ನಾನು ___ ಇದ್ದೀನಿ | naanu ___ iddiini | I am ___ |
-| ನೀವು ___ ಇದ್ದೀರಾ | niivu ___ iddiiraa | you are ___ (formal) |
-| ಅವನು/ಅವಳು ___ ಇದ್ದಾರೆ | avanu/avaLu ___ iddaare | he/she is ___ |
-| ಅದು ___ ಇದೆ | adu ___ ide | it is ___ |
-| ನಾವು ___ ಇದ್ದೇವೆ | naavu ___ iddeeve | we are ___ |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ನಾನು ___ ಇದ್ದೀನಿ | naanu ___ iddiini | NAH-noo id-DEE-nee | I am ___ |
+| ನೀವು ___ ಇದ್ದೀರಾ | niivu ___ iddiiraa | NEE-voo id-DEE-rah | you are ___ (formal) |
+| ಅವನು/ಅವಳು ___ ಇದ್ದಾರೆ | avanu/avaLu ___ iddaare | UH-vuh-noo/UH-vuh-loo id-DAH-reh | he/she is ___ |
+| ಅದು ___ ಇದೆ | adu ___ ide | UH-doo EE-deh | it is ___ |
+| ನಾವು ___ ಇದ್ದೇವೆ | naavu ___ iddeeve | NAH-voo id-DAY-veh | we are ___ |
 
 You've already seen this pattern: "naanu chennaagiddiini" from Lesson 2 is literally "naanu chennaagi iddiini" (I well am) = "I am fine."
 
@@ -49,11 +49,11 @@ You've already seen this pattern: "naanu chennaagiddiini" from Lesson 2 is liter
 
 Put subject + object + verb together using what you've learned:
 
-| Kannada | Romanized | English |
-|---|---|---|
-| ನಾನು ನೀರು ಕುಡಿಯುತ್ತೇನೆ | naanu niiru kuDiyuttene | I drink water |
-| ಅವಳು ಕನ್ನಡ ಮಾತಾಡುತ್ತಾಳೆ | avaLu kannaDa maataaDuttaaLe | She speaks Kannada |
-| ನಾವು ಹೋಟೆಲ್‌ಗೆ ಹೋಗುತ್ತೇವೆ | naavu hoTelge hoguttaeve | We go to the restaurant |
+| Kannada | Romanized | English phonetic | English |
+|---|---|---|---|
+| ನಾನು ನೀರು ಕುಡಿಯುತ್ತೇನೆ | naanu niiru kuDiyuttene | NAH-noo NEE-roo koo-dee-YOOT-teh-neh | I drink water |
+| ಅವಳು ಕನ್ನಡ ಮಾತಾಡುತ್ತಾಳೆ | avaLu kannaDa maataaDuttaaLe | UH-vuh-loo KUN-nuh-duh mah-tah-DOOT-tah-leh | She speaks Kannada |
+| ನಾವು ಹೋಟೆಲ್‌ಗೆ ಹೋಗುತ್ತೇವೆ | naavu hoTelge hoguttaeve | NAH-voo hoh-TEL-geh hoh-GOOT-tay-veh | We go to the restaurant |
 
 Notice the verb endings change with the subject (-ttene for "I", -ttaaLe for "she", -tteeve for "we") — this is the agreement system replacing noun gender.
 

@@ -4,37 +4,37 @@
 
 ## Politeness & survival basics
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| ദയവായി | dayavāyi | please |
-| നന്ദി | nandi | thank you |
-| വളരെ നന്ദി | vaḷare nandi | thank you very much |
-| ക്ഷമിക്കണം | kṣamikkaṇam | sorry / excuse me |
-| സാരമില്ല | sāramilla | no problem / it's okay |
-| അതെ | athe | yes |
-| ഇല്ല | illa | no |
-| ശരി | śari | okay / alright |
-| എനിക്ക് മനസ്സിലായില്ല | enikku manassilāyilla | I don't understand |
-| എനിക്ക് മനസ്സിലായി | enikku manassilāyi | I understand |
-| നിങ്ങൾക്ക് ഇംഗ്ലീഷ് അറിയാമോ? | niṅṅaḷkku iṅgḷīṣ aṟiyāmō? | do you speak English? |
-| പതുക്കെ പറയാമോ? | pathukke paṟayāmō? | can you speak slowly? |
-| ഒന്നുകൂടി പറയാമോ? | onnukūṭi paṟayāmō? | can you repeat that? |
-| ടോയ്‌ലറ്റ് എവിടെയാണ്? | ṭoyleṭṭŭ eviṭeyāṇŭ? | where is the bathroom? |
-| ഇതിന് എന്ത് വില? | ithinŭ enthŭ vila? | how much is this? |
-| സഹായിക്കാമോ? | sahāyikkāmō? | can you help me? |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| ദയവായി | dayavāyi | duh-yuh-VAA-yi | please |
+| നന്ദി | nandi | NUN-dee | thank you |
+| വളരെ നന്ദി | vaḷare nandi | vuh-LUH-reh NUN-dee | thank you very much |
+| ക്ഷമിക്കണം | kṣamikkaṇam | kshuh-mik-KUH-num | sorry / excuse me |
+| സാരമില്ല | sāramilla | SAA-ruh-mil-luh | no problem / it's okay |
+| അതെ | athe | UH-theh | yes |
+| ഇല്ല | illa | IL-luh | no |
+| ശരി | śari | SHUH-ree | okay / alright |
+| എനിക്ക് മനസ്സിലായില്ല | enikku manassilāyilla | eh-NIK-ku muh-nus-si-LAA-yil-luh | I don't understand |
+| എനിക്ക് മനസ്സിലായി | enikku manassilāyi | eh-NIK-ku muh-nus-si-LAA-yi | I understand |
+| നിങ്ങൾക്ക് ഇംഗ്ലീഷ് അറിയാമോ? | niṅṅaḷkku iṅgḷīṣ aṟiyāmō? | nin-ngal-KU ING-leesh uh-ri-YAA-mo | do you speak English? |
+| പതുക്കെ പറയാമോ? | pathukke paṟayāmō? | puh-thuk-KEH puh-ruh-YAA-mo | can you speak slowly? |
+| ഒന്നുകൂടി പറയാമോ? | onnukūṭi paṟayāmō? | on-nu-KOO-di puh-ruh-YAA-mo | can you repeat that? |
+| ടോയ്‌ലറ്റ് എവിടെയാണ്? | ṭoyleṭṭŭ eviṭeyāṇŭ? | TOY-let-tu eh-vi-deh-YAA-nu | where is the bathroom? |
+| ഇതിന് എന്ത് വില? | ithinŭ enthŭ vila? | i-thi-NU EN-thu VI-luh | how much is this? |
+| സഹായിക്കാമോ? | sahāyikkāmō? | suh-haa-yik-KAA-mo | can you help me? |
 
 ## Question words
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| ആര്? | āru? | who? |
-| എന്ത്? | enthŭ? | what? |
-| എപ്പോൾ? | eppōḷ? | when? |
-| എവിടെ? | eviṭe? | where? |
-| എന്തിന്? | enthinu? | why? |
-| എങ്ങനെ? | eṅṅane? | how? |
-| എത്ര? | ethra? | how much/many? |
-| ഏത്? | ēthŭ? | which? |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| ആര്? | āru? | AA-roo | who? |
+| എന്ത്? | enthŭ? | EN-thu | what? |
+| എപ്പോൾ? | eppōḷ? | ep-POL | when? |
+| എവിടെ? | eviṭe? | eh-VI-deh | where? |
+| എന്തിന്? | enthinu? | en-THI-nu | why? |
+| എങ്ങനെ? | eṅṅane? | eng-NGA-neh | how? |
+| എത്ര? | ethra? | ETH-ruh | how much/many? |
+| ഏത്? | ēthŭ? | AY-thu | which? |
 
 ## Mini-dialogue: asking for help
 

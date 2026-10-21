@@ -4,56 +4,56 @@
 
 ## Numbers 0–20
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| പൂജ്യം | pūjyam | 0 |
-| ഒന്ന് | onnŭ | 1 |
-| രണ്ട് | raṇṭŭ | 2 |
-| മൂന്ന് | mūnnŭ | 3 |
-| നാല് | nālŭ | 4 |
-| അഞ്ച് | añcŭ | 5 |
-| ആറ് | āṟŭ | 6 |
-| ഏഴ് | ēḻŭ | 7 |
-| എട്ട് | eṭṭŭ | 8 |
-| ഒമ്പത് | ompathŭ | 9 |
-| പത്ത് | patthŭ | 10 |
-| പതിനൊന്ന് | pathinonnŭ | 11 |
-| പന്ത്രണ്ട് | panthraṇṭŭ | 12 |
-| പതിമൂന്ന് | pathimūnnŭ | 13 |
-| പതിനാല് | pathinālŭ | 14 |
-| പതിനഞ്ച് | pathinañcŭ | 15 |
-| പതിനാറ് | pathināṟŭ | 16 |
-| പതിനേഴ് | pathinēḻŭ | 17 |
-| പതിനെട്ട് | pathineṭṭŭ | 18 |
-| പത്തൊമ്പത് | patthompathŭ | 19 |
-| ഇരുപത് | irupathŭ | 20 |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| പൂജ്യം | pūjyam | POOJ-yum | 0 |
+| ഒന്ന് | onnŭ | ON-nu | 1 |
+| രണ്ട് | raṇṭŭ | RUN-du | 2 |
+| മൂന്ന് | mūnnŭ | MOON-nu | 3 |
+| നാല് | nālŭ | NAA-lu | 4 |
+| അഞ്ച് | añcŭ | UN-chu | 5 |
+| ആറ് | āṟŭ | AA-ru | 6 |
+| ഏഴ് | ēḻŭ | AY-zhu | 7 |
+| എട്ട് | eṭṭŭ | ET-tu | 8 |
+| ഒമ്പത് | ompathŭ | OM-buh-thu | 9 |
+| പത്ത് | patthŭ | PUT-tu | 10 |
+| പതിനൊന്ന് | pathinonnŭ | puh-thi-NON-nu | 11 |
+| പന്ത്രണ്ട് | panthraṇṭŭ | pun-thruh-RUN-du | 12 |
+| പതിമൂന്ന് | pathimūnnŭ | puh-thi-MOON-nu | 13 |
+| പതിനാല് | pathinālŭ | puh-thi-NAA-lu | 14 |
+| പതിനഞ്ച് | pathinañcŭ | puh-thi-NUN-chu | 15 |
+| പതിനാറ് | pathināṟŭ | puh-thi-NAA-ru | 16 |
+| പതിനേഴ് | pathinēḻŭ | puh-thi-NAY-zhu | 17 |
+| പതിനെട്ട് | pathineṭṭŭ | puh-thi-NET-tu | 18 |
+| പത്തൊമ്പത് | patthompathŭ | put-TOM-buh-thu | 19 |
+| ഇരുപത് | irupathŭ | i-ru-PUH-thu | 20 |
 
 ## Tens to 100
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| മുപ്പത് | muppathŭ | 30 |
-| നാല്പത് | nālpathŭ | 40 |
-| അമ്പത് | ampathŭ | 50 |
-| അറുപത് | aṟupathŭ | 60 |
-| എഴുപത് | eḻupathŭ | 70 |
-| എൺപത് | eṇpathŭ | 80 |
-| തൊണ്ണൂറ് | thoṇṇūṟŭ | 90 |
-| നൂറ് | nūṟŭ | 100 |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| മുപ്പത് | muppathŭ | MUP-puh-thu | 30 |
+| നാല്പത് | nālpathŭ | NAAL-puh-thu | 40 |
+| അമ്പത് | ampathŭ | UM-puh-thu | 50 |
+| അറുപത് | aṟupathŭ | uh-RU-puh-thu | 60 |
+| എഴുപത് | eḻupathŭ | eh-ZHU-puh-thu | 70 |
+| എൺപത് | eṇpathŭ | EN-puh-thu | 80 |
+| തൊണ്ണൂറ് | thoṇṇūṟŭ | thon-NOO-ru | 90 |
+| നൂറ് | nūṟŭ | NOO-ru | 100 |
 
 For compound numbers, Malayalam generally states tens then adds the unit similarly to English (e.g. "twenty-five" → ഇരുപത്തിയഞ്ച്, *irupaththiyañcŭ*).
 
 ## Days of the week
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| തിങ്കൾ | thiṅkaḷ | Monday |
-| ചൊവ്വ | chovva | Tuesday |
-| ബുധൻ | budhan | Wednesday |
-| വ്യാഴം | vyāḻam | Thursday |
-| വെള്ളി | veḷḷi | Friday |
-| ശനി | śani | Saturday |
-| ഞായർ | ñāyar | Sunday |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| തിങ്കൾ | thiṅkaḷ | THIN-kal | Monday |
+| ചൊവ്വ | chovva | CHOV-vuh | Tuesday |
+| ബുധൻ | budhan | BU-dhun | Wednesday |
+| വ്യാഴം | vyāḻam | vyaa-ZHUM | Thursday |
+| വെള്ളി | veḷḷi | VEL-lee | Friday |
+| ശനി | śani | SHU-nee | Saturday |
+| ഞായർ | ñāyar | NYAA-yar | Sunday |
 
 Malayalam weekday names are rooted in the same classical Indian planetary system as many other Indian languages (Moon, Mars, Mercury, Jupiter, Venus, Saturn, Sun).
 
@@ -63,17 +63,17 @@ Malayalam has its own traditional calendar (Kollavarsham) used for festivals, bu
 
 ## Telling time
 
-| Malayalam script | Transliteration | English |
-|---|---|---|
-| സമയം എത്രയായി? | samayam ethrayāyi? | what time is it? |
-| ... മണി | ... maṇi | ... o'clock |
-| ഇന്ന് | innŭ | today |
-| നാളെ | nāḷe | tomorrow |
-| ഇന്നലെ | innale | yesterday |
-| രാവിലെ | rāvile | morning |
-| ഉച്ച | ucha | noon/afternoon |
-| വൈകുന്നേരം | vaikunnēram | evening |
-| രാത്രി | rāthri | night |
+| Malayalam script | Transliteration | English phonetic | English |
+|---|---|---|---|
+| സമയം എത്രയായി? | samayam ethrayāyi? | suh-MUH-yum eth-ruh-YAA-yi | what time is it? |
+| ... മണി | ... maṇi | MUH-ni | ... o'clock |
+| ഇന്ന് | innŭ | IN-nu | today |
+| നാളെ | nāḷe | NAA-leh | tomorrow |
+| ഇന്നലെ | innale | in-NUH-leh | yesterday |
+| രാവിലെ | rāvile | RAA-vi-leh | morning |
+| ഉച്ച | ucha | OO-chuh | noon/afternoon |
+| വൈകുന്നേരം | vaikunnēram | vai-kun-NAY-rum | evening |
+| രാത്രി | rāthri | RAATH-ree | night |
 
 Example: "മൂന്ന് മണി" (*mūnnŭ maṇi*) = "three o'clock."
 
